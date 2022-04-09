@@ -36,5 +36,5 @@ The data was downloaded from the Citbike webiste for August 2019. The csv file w
 The analysis and visulasation illustaredt in this project can be ebneficial for the same bikshare service project in De Moine Iowa. Although not all the findings can be extrapolated for De Moine considering the differnce in population, dmeographics and weather, we ccan stilol utilise the results and make the informed decision for the bikeshare start-up in De Moine, Iowa.
 
 
-## **Refernce**
+## **Reference**
 [Link to Tableau Citibike Analysis Story (Jay Kansara)](https://public.tableau.com/app/profile/jay5010/viz/CitibikeAnalysisNewYork/CitibikeAnalysisNewYork?publish=yes)
